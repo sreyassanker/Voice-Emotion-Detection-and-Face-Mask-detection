@@ -3,7 +3,7 @@
 A dual AI system combining **speech emotion recognition** and **real-time face mask detection** using deep learning and computer vision.
 
 ## 🔹 Modules
-- **Voice Emotion Detection**
+- **Voice Emotion Detection** 
   - MFCC, Chroma, Mel features
   - Random Forest classifier
   - Real-time prediction via Streamlit
