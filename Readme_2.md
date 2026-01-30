@@ -3,7 +3,7 @@
 
 This document provides a **detailed, process-level explanation** of each module, including data flow, feature extraction, model training, and real-time inference logic.
 
----
+--- 
 
 ## 🧩 Project Architecture Overview
 
