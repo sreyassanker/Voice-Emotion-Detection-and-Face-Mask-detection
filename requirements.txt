@@ -1,6 +1,11 @@
 flask
+streamlit
 opencv-python
 tensorflow
 numpy
+librosa
+sounddevice
+soundfile
+scikit-learn
+tqdm
 playsound
-
