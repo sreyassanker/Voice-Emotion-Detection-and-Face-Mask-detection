@@ -5,7 +5,7 @@ tensorflow
 numpy
 librosa
 sounddevice
-soundfile
+soundfile 
 scikit-learn
 tqdm
 playsound
